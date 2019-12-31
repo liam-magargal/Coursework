@@ -1,4 +1,4 @@
-[<<Back to homepage]()
+[<<Back to homepage](https://liam-magargal.github.io/Liam-Magargal/)
 
 # Advanced Placement Courses
 * AP Calculus AB
