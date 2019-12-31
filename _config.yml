@@ -1,3 +1,4 @@
-theme: jekyll-theme-slate
-github:
-  is_project_page: false
+  title: Coursework
+  theme: jekyll-theme-cayman
+  github:
+    is_project_page: false
