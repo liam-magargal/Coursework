@@ -31,4 +31,4 @@
 
 ##### Cumulative GPA: 3.59
 ##### Total Credit Hours: 93
-##### Credits Required for Graduation: 129
+##### Credit Hours Required for Graduation: 129
