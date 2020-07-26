@@ -30,7 +30,13 @@
 * Graphics for Engineering Design
 * Numerical Methods in Mechanical Engineering
 
+# Spring 2020
+* Mechanical Engineering Laboratory I
+* Manufacturing
+* Mechanical Elements
+* Intro to Aerospace Engineering
+* Capstone Design Projecs I
 
-##### Cumulative GPA: 3.59
-##### Total Credit Hours: 93
+##### Cumulative GPA: 3.62
+##### Total Credit Hours: 111
 ##### Credit Hours Required for Graduation: 129
